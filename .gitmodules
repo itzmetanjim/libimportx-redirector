@@ -1,0 +1,9 @@
+[submodule "libimportx"]
+	path = libimportx
+	url = https://github.com/itzmetanjim/libimportx.git
+[submodule "libimportx-python"]
+	path = libimportx-python
+	url = https://github.com/itzmetanjim/libimportx-python.git
+[submodule "libimportx-js"]
+	path = libimportx-js
+	url = https://github.com/itzmetanjim/libimportx-js.git
