@@ -1,3 +1,5 @@
+**NOTE:** this doesnt work in windows because windows has no `AF_UNIX` socket and this is like the ony reliable way to do IPC
+
 Which repo do you want to go to?
 ================================
 
