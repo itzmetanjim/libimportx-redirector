@@ -42,7 +42,7 @@ await mymodule.var
 mymodule.var="value" //no await here
 // To export this file
 var mystuff=(a)=>{console.log(a)} //defined something to export
-module.exports={a} //classic js stuff
+module.exports={mystuff} //classic js stuff
 if (!exportx()){ //does NOT block, returns whether it was importx'ed or not
 console.log("Standalone")
 }
